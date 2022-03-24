@@ -1,0 +1,18 @@
+parte3/Aluno.java
+ parte3.Aluno
+parte2/ConnectionJDBC.java
+ parte2.ConnectionJDBC
+parte3/ConnectionFactory.java
+ parte3.ConnectionFactory
+parte3/QueriesExecution.java
+ parte3.QueriesExecution
+parte3/AlunoDAO.java
+ parte3.AlunoDAO
+ExercicioCrud/ConnectionFactory.java
+ ExercicioCrud.ConnectionFactory
+ExercicioCrud/Curso.java
+ ExercicioCrud.Curso
+ExercicioCrud/CursoDao.java
+ ExercicioCrud.CursoDao
+ExercicioCrud/QueriesExecution.java
+ ExercicioCrud.QueriesExecution
